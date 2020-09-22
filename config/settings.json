@@ -1,0 +1,83 @@
+{
+  "general_settings": {
+    "Module_Path": "vtk_generation\\mino_3d_model\\demo_part",
+    "Save_Path": "D:\\DT-CAT-IMAGE\\syn_img_with_color_label",
+    "BG_Path": "texture\\real_bg.png",
+    "Image_Size": [1280,720]
+  },
+  "module_settings": {
+    "F58001104805002120001": {
+      "rotate_combination": [
+        [0,90,0],
+        [0,180,0],
+        [0,270,0]
+      ],
+      "offset": [0,0,0],
+      "scale": 1,
+      "texture_path": "texture\\1.bmp",
+      "random_color": true
+    },
+    "F58001104805003210004": {
+      "rotate_combination": [
+        [0,90,0],
+        [0,180,0],
+        [0,270,0]
+      ],
+      "offset": [0,0,0],
+      "scale": 1,
+      "texture_path": "texture\\2.bmp",
+      "random_color": true
+    },
+    "F58001104805003240003": {
+      "rotate_combination": [
+        [0,90,0],
+        [0,180,0],
+        [0,270,0],
+        [90,0,0]
+      ],
+      "offset": [0,0,0],
+      "scale": 1,
+      "texture_path": "texture\\1.bmp",
+      "random_color": true
+    },
+    "F58001104821701010008": {
+      "rotate_combination": [
+        [0,90,0],
+        [0,180,0],
+        [0,270,0]
+      ],
+      "offset": [0,0,0],
+      "scale": 1,
+      "texture_path": "D:\\DT-cat_Synthetic_Data_Generation\\texture\\1.bmp",
+      "random_color": true
+    },
+    "F58001104827202120004": {
+      "rotate_combination": [
+        [0,90,0],
+        [0,180,0],
+        [0,270,0],
+        [270,0,0]
+      ],
+      "offset": [0,0,0],
+      "scale": 1,
+      "texture_path": "D:\\DT-cat_Synthetic_Data_Generation\\texture\\1.bmp",
+      "random_color": true
+    },
+    "F58001104949503200002": {
+      "rotate_combination": [
+        [0,90,0],
+        [0,180,0],
+        [0,270,0]
+      ],
+      "offset": [0,0,0],
+      "scale": 1,
+      "texture_path": "D:\\DT-cat_Synthetic_Data_Generation\\texture\\1.bmp",
+      "random_color": true
+    }
+  },
+  "camera_settings":
+  {
+    "co_ordinate": [20,20,520],
+    "scale": 1
+  }
+}
